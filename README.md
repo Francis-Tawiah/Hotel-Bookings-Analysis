@@ -33,9 +33,10 @@ In order to efficiently analyze the data over time, an external "Date" table was
 ![](data-modelling.JPG)
 
 ## Date Table Creation
-The Date table was created using the **Calendar()** function. The function allows to manually specify the start date and end date. The "Date of Booking" column was carefully examined to determine the start and end date and was manually inputted below. This allows to set the "Date" table records the same as the "Date of Booking" date records.
+The Date table was created using the **Calendar()** function. The function allows to manually specify the start date and end date. The "Date of Booking" column was carefully examined to determine the start and end dates and was manually inputted below. This allows to set the "Date" table records the same as the "Date of Booking" date records.
 
 **DateTable = CALENDAR("1/1/2010","31/12/2019")**
+![](DateTable-Creation.JPG)
 
 ## Visualization
 
