@@ -56,9 +56,12 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiM
 - The most-rated hotel in the last nine years is Bourbon Bliss
 - 2019 yielded the most profit as compared to the other years.
 - 2019 yielded the highest booking fee.
-- The customer base is dominated by Females on a slim margin.
-- Thailand is the most dominant country of origin by customers.
+- The customer base is dominated by women by a slim margin.
+- Thailand is the most dominant country of origin for customers.
 - New Zealand is the most visited country by customers.
+- There was a growth of ~28% in booking fees between 2018 and 2019.
+- There was a growth of 2% in profit between 2018 and 2019.
+- The average booking fee and profit were $1,424,365 and $211,432 respectively. 
 
 ## Data Source
 The data was sourced from [FestMan Learning Hub](https://festman.io/).
